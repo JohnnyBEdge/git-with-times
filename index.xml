@@ -1,0 +1,98 @@
+    <movies>
+        <movie id="movie1">
+            <title>Parasite</title>
+            <stars>
+                <actors>
+                    <actor>Kang-ho Song</actor>
+                    <actor>Sun-kyun Lee</actor>
+                </actors>
+                <actresses>
+                    <actress>Yeo-jeong Jo</actress>
+                </actresses>
+            </stars>
+            <directors>
+                <director>Bong Joon Ho</director>
+            </directors>
+            <writers>
+                <writer>Bong Joon Ho</writer>
+            </writers>
+            <dates>
+                <inTheatre>November 18, 2019</inTheatre>
+                <inStore>TBD</inStore>
+            </dates>
+            <genres>
+                <genre>Comdey</genre>
+                <genre>Drama</genre>
+                <genre>Thriller</genre>
+            </genres>
+            <rating>R</rating>
+            <trivia>
+                <fact id="fact1">The Parks' house, said in the film to be designed by a fictional architect named Namgoong Hyeonja, was a set completely built from scratch.</fact>
+                <fact id="fact2">Won the Palme d'Or at the 2019 Cannes Film Festival, the first Korean film to ever do so.</fact>
+                <fact id="fact3">This is the first film not in the English language to win the Oscar for Best Picture.</fact>
+            </trivia>
+        </movie>
+
+        <movie id="movie2">
+            <title></title>
+            <stars>
+                <actors>
+                    <actor></actor>
+                    <actor></actor>
+                </actors>
+                <actresses>
+                    <actress></actress>
+                </actresses>
+            </stars>
+            <directors>
+                <director></director>
+            </directors>
+            <writers>
+                <writer></writer>
+            </writers>
+            <dates>
+                <inTheatre></inTheatre>
+                <inStore></inStore>
+            </dates>
+            <genres>
+                <genre></genre>
+                <genre></genre>
+                <genre></genre>
+            </genres>
+            <rating></rating>
+            <trivia>
+                <fact id="fact1"></fact>
+                <fact id="fact2"></fact>
+                <fact id="fact3"></fact>
+            </trivia>
+        </movie>
+
+        <movie id="movie3">
+            <title></title>
+            <stars>
+                <actors>
+                    <actor></actor>
+                </actors>
+                <actresses>
+                    <actress></actress>
+                </actresses>
+            </stars>
+            <directors>
+                <director></director>
+            </directors>
+            <writers>
+                <writer></writer>
+            </writers>
+            <dates>
+                <inTheatre></inTheatre>
+                <inStore></inStore>
+            </dates>
+            <genre></genre>
+            <rating></rating>
+            <trivia>
+                <fact id="fact1"></fact>
+                <fact id="fact2"></fact>
+                <fact id="fact3"></fact>
+            </trivia>
+        </movie>
+    </movies>
